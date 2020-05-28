@@ -10,11 +10,13 @@ By using the slack API, we can build a set of rules and mechanism by which one a
 Through this API can return the data that you can need for our application in a convienient format.
 
 /Slack API
-It consists of several features like 
-apphome
-incoming webhooks
-interactivity and shortcuts
-slash commands
-oauth and permission
-event subscriptions
+It consists of several features like-
+apphome,
+incoming webhooks,
+interactivity and shortcuts,
+slash commands,
+oauth and permission,
+event subscriptions &
 user I'd transactions.
+
+After linked these feature we may get a clear workspace for sharing our information to the required slack channel.
